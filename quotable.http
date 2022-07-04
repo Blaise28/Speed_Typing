@@ -1,0 +1,1 @@
+GET https://api.quotable.io/random HTTP/1.1;

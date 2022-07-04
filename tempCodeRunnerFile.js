@@ -1,0 +1,1 @@
+   spinner.classList.add("active");
